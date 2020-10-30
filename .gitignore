@@ -25,3 +25,6 @@ __pycache__
 
 # Emacs backup
 *~
+
+# my ignore directory
+ignore
